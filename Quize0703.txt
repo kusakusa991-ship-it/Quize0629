@@ -76,10 +76,11 @@ Q6. CSSでクラスを指定する際に使う記号はどれか。
 Q7. github上で公開している自分のホームページＵＲＬを教えてください
 
 ◆解答
-1 → 
-2 → 
-3 → 
-4 → 
-5 → 
-6 → 
-7　→
+1 → Q1. プロトコル・ドメイン名・パス
+Q2. <!DOCTYPE html>
+Q3. <html>, <head>, <body>
+Q4. color
+Q5. <style>タグを使う
+Q6. .
+Q7. https://kusakusa991-ship-it.github.io/KUSANAGI991/
+
